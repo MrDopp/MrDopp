@@ -1,29 +1,13 @@
+<br clear="both">
+
 <h2 data-importer="text" align="center">Welcome to my profile ig</h2>
 
 ###
 
-<div data-importer="music" align="center">
-<a href="https://open.spotify.com/user/31uucvewwxqfiyww7w2kkp3n2ex4">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uucvewwxqfiyww7w2kkp3n2ex4&amp;theme=radical&amp;count=3&amp;width=730&amp;radius=9&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="730" />
-</a>
-</div>
+<br clear="both">
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Doppamu?theme=booru-helltaker&padding=5&offset=0&scale=1&align=bottom&pixelated=1&darkmode=1"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <a href="https://open.spotify.com/user/31uucvewwxqfiyww7w2kkp3n2ex4?si=87ea5027e1874862" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
-  </a>
-  <a href="https://discord.com/users/1032604490852995153" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY1M2o4cHBkc2tzcnkyM3l5N3gyMnFsZG85dDllenVidGVwOXFrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O8Z9mDJLYGJkxLjmQi/giphy.gif"  />
 </div>
 
 ###
@@ -68,10 +52,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="74" alt="cplusplus logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="74" alt="androidstudio logo"  />
-  <img width="23" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="74" alt="vscode logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="74" alt="bash logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <a href="https://open.spotify.com/user/31uucvewwxqfiyww7w2kkp3n2ex4?si=87ea5027e1874862" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  </a>
+  <a href="https://discord.com/users/1032604490852995153" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="music" align="center">
+<a href="https://open.spotify.com/user/31uucvewwxqfiyww7w2kkp3n2ex4">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uucvewwxqfiyww7w2kkp3n2ex4&amp;theme=radical&amp;count=3&amp;width=730&amp;radius=9&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="730" />
+</a>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Doppamu?theme=booru-helltaker&padding=5&offset=0&scale=1&align=bottom&pixelated=1&darkmode=1"  />
+</div>
+
+###
+
+<h6 data-importer="text" align="center">< Profile Visits ></h6>
 
 ###
